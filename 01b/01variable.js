@@ -11,5 +11,7 @@ accountEmail="bsbudfhdu@gmail.com"
 accountPassword="ibdiui"
 accountcity="goa"
 
+uu = 1234
+
 console.table([accountId,accountEmail,accountPassword,accountcity,accountState])
 
